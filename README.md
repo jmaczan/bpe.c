@@ -1,4 +1,4 @@
-# bpec
+# bpe.c
 
 Byte-Pair Encoding tokenizer for training large language models on huge datasets. I don't know C yet, so **most of the code comes from AI :D**
 
